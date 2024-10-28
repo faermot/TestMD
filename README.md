@@ -78,7 +78,6 @@
     ```C#
     string numberString = "123";
     int number = Convert.ToInt32(numberString);
-    
     // обратно в строку
     int anotherNumber = 456;
     string anotherNumberString = Convert.ToString(anotherNumber);
