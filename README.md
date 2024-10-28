@@ -75,13 +75,13 @@
     7. ToUpper - возвращает прописную версию вызывающей строки
 
 <ins>**16.**</ins> Для преобразования строки в число и наоборот можно использовать класс Convert:
-    ```C#
-    string numberString = "123";
-    int number = Convert.ToInt32(numberString);
-    // обратно в строку
-    int anotherNumber = 456;
-    string anotherNumberString = Convert.ToString(anotherNumber);
-    ```
+```C#
+string numberString = "123";
+int number = Convert.ToInt32(numberString);
+// обратно в строку
+int anotherNumber = 456;
+string anotherNumberString = Convert.ToString(anotherNumber);
+```
 
 
     
