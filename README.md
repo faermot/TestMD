@@ -103,7 +103,7 @@ string anotherNumberString = Convert.ToString(anotherNumber);
         
         2. | - ИЛИ
         
-        3.^ - Исключающее ИЛИ
+        3. ^ - Исключающее ИЛИ
         
         4. && - сокращённое И
         
